@@ -18,7 +18,7 @@ function Project() {
         parent: wrappers.current,
         intensity: 0.6,
         imagesRatio: 360/288,
-        image1: 'https://event.ru/wp-content/uploads/2021/10/vk-1122x686.png',
+        image1: 'images/vk-1122x686.png',
         image2: '/images/olga.jpg',
         displacementImage: '/images/14.jpg'
       })
@@ -27,7 +27,7 @@ function Project() {
         parent: wrapper3.current,
         intensity: 0.4,
         imagesRatio: 360/320,
-        image1: '/images/image1.jpg',
+        image1: '/images/Forbes-logo.jpg',
         image2: '/images/image2.jpg',
         displacementImage: '/images/14.jpg'
       })
@@ -36,7 +36,7 @@ function Project() {
         parent: wrapper2.current,
         intensity: 0.5,
         imagesRatio: 360/320,
-        image1: '/images/Ochi.png',
+        image1: '/images/sberbank.png',
         image2: '/images/eyes.png',
         displacementImage: '/images/14.jpg'
       })
@@ -44,7 +44,7 @@ function Project() {
         parent: wrapper4.current,
         intensity: 0.5,
         imagesRatio: 360/320,
-        image1: '/images/lax.png',
+        image1: '/images/icon.png',
         image2: '/images/Laxer2.png',
         displacementImage: '/images/14.jpg'
       })
@@ -53,7 +53,7 @@ function Project() {
         parent: wrapper5.current,
         intensity: 0.5,
         imagesRatio: 360/288,
-        image1: '/images/flow.png',
+        image1: '/images/wflogo.png',
         image2: '/images/flow2.png',
         displacementImage: '/images/14.jpg'
       })
@@ -62,7 +62,7 @@ function Project() {
         parent: wrapper6.current,
         intensity: 0.5,
         imagesRatio: 360/320,
-        image1: '/images/last.png',
+        image1: '/images/audilogo.png',
         image2: '/images/last2.png',
         displacementImage: '/images/14.jpg'
       })
