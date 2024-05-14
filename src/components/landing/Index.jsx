@@ -54,20 +54,20 @@ function Landing() {
           >
             <div className={`hero ${styles.hero}`} id="hero1">
               <h1>
-                We Design
+                I am Polina,
               </h1>
             </div>
             <div className={`hero ${styles.hero}`} id="hero2">
               <h1>
-                Unique</h1>
+                I am making cool</h1>
             </div>
             <div className={`hero ${styles.hero} relative z-[999] `} id="hero3">
               <h2 className="">Web</h2>
               <h3>/</h3>
-              <h2>Graphic</h2>
+              <h2>Design</h2>
             </div>
             <div className={`hero ${styles.hero}`} id="hero4">
-              <h1>Experience</h1>
+              <h1>Projects</h1>
             </div>
           </div>
           <img 
