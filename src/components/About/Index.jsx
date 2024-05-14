@@ -53,7 +53,7 @@ function About() {
                         sm:text-[6vw] font-[PlinaReg] sm:leading-[6vw] sm:tracking-normal
                         uppercase"
                     >
-                        About Obys
+                        About Me
                     </h1>
                 </div>
                 {/* <div 
@@ -81,13 +81,13 @@ function About() {
                     className="sm:w-2/4 text-[5.5vw] tracking-normal leading-[6vw] font-[PlinaReg] pt-[8vw] sm:pt-0
                     sm:text-[1.8vw] sm:leading-[2.2vw]"
                 >
-                    <div className="aboutText overflow-hidden"><h2>Our agency is about people who</h2></div>
-                    <div className="aboutText overflow-hidden"><h2>love creating designing and</h2></div>
-                    <div className="aboutText overflow-hidden"><h2>developing wow projects. In the</h2></div>
-                    <div className="aboutText overflow-hidden"><h2>same time we are boutique</h2></div>
-                    <div className="aboutText overflow-hidden"><h2>agency that is more than the</h2></div>
-                    <div className="aboutText overflow-hidden"><h2>collective. We learn and grow, win</h2></div>
-                    <div className="aboutText overflow-hidden"><h2>and celebrate together.</h2></div>
+                    <div className="aboutText overflow-hidden"><h2>I am Polina - MIREA student,</h2></div>
+                    <div className="aboutText overflow-hidden"><h2>who love creating, designing and</h2></div>
+                    <div className="aboutText overflow-hidden"><h2>developing cool projects. In the</h2></div>
+                    <div className="aboutText overflow-hidden"><h2>same time I also really love</h2></div>
+                    <div className="aboutText overflow-hidden"><h2>low-level development and</h2></div>
+                    <div className="aboutText overflow-hidden"><h2>other PC stuff. I made a lot of</h2></div>
+                    <div className="aboutText overflow-hidden"><h2>projects for people and companies.</h2></div>
                     
                 </div>
                 <div className="relative flex flex-col mt-8 sm:flex-row sm:mt-16 gap-8 ">
@@ -99,10 +99,10 @@ function About() {
                         text-[#cbcaca]
                         sm:w-1/5  sm:text-[.9vw] sm:leading-[1.4vw]   "
                     >
-                        <h5 className="mb-8">We are happy to present our new website and updated version of Obys agency. As before we are open for new projects worldwide!</h5>
+                        <h5 className="mb-8">I am happy to present my new website. It really helps me feel better in development society.</h5>
                         <h5>
-                            Would you like to have award winning site or unique branding style, please say hi to our manager —info@obys.agency.
-                            And we will help you with the pleasure.
+                            If you wanna same cool site, which will win a lot of awards, DM me in Telegram or by mail polina@petkevich.su.
+                            And I we will help you with the pleasure.
                         </h5>
                     </div>
                     {/* blue Image */}
