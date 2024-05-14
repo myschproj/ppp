@@ -4,10 +4,9 @@ import UnderLine from '../Underline/Index'
 import styles from './Style.module.css'
 
 const data = [
-    { title: "Dribbble"},
-    {title: "Behance"},
+    { title: "Telegram"},
     {title: "Instagram"},
-    {title: "Facebook"},
+    {title: "Github"},
     {title: "Twitter"},
     {title: "YouTube"},
 ]
