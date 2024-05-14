@@ -112,7 +112,7 @@ function About() {
                     className="underline mt-[16vw] mb-[5vw] w-full h-[.25vw] 
                     sm:h-[.01vw] sm:mt-[18vw] sm:mb-[1vw] bg-white"
                 ></div> */}
-                <p className="font-[PlinaReg] text-[3.5vw] pt-[3vw] sm:pt-0 sm:text-[.8vw]">We work with</p>
+                <p className="font-[PlinaReg] text-[3.5vw] pt-[3vw] sm:pt-0 sm:text-[.8vw]">I have been worked with</p>
             </div>    
         </div>
     </div>
