@@ -48,8 +48,6 @@ function App() {
         <div className=' bg-[#151515]'>
           <Navbar/>
           <Landing />
-          {/* video */}
-          <Video />
           <Project/>
           <CenterButton/>
           <About/>
