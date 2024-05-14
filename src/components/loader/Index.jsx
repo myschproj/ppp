@@ -92,10 +92,10 @@ function Loader() {
                     <h5 className='w-[5vw] text-right'>00</h5>
                     <h4>- 100</h4>
                 </div>
-                <h1>Your</h1>
+                <h1>Hello,</h1>
             </div>
             <div className={`line ${styles.line} uppercase`}>
-                <h1>Web Experience</h1>
+                <h1>I am Polina.</h1>
             </div>
             <div 
                 className={` line ${styles.line} flex 
@@ -103,7 +103,7 @@ function Loader() {
                 gap-[1.5vw] uppercase`}
             >
                 <h1>
-                    is loading right
+                    My site is loading right
                 </h1>
                 <h2 className={`animateh2 ${styles.animateh2} text-[5.5vw]`}>
                     Now
