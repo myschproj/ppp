@@ -155,7 +155,7 @@ function Project() {
                 sm:tracking-normal
                 uppercase"
               >
-                our Projects
+                my Projects
               </h1>
             </div>
             {/*Line animation */}
