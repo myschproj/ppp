@@ -35,7 +35,7 @@ function Footer() {
                             sm:text-[6.8vw] sm:leading-[7vw] sm:tracking-normal
                             uppercase`}
                         >
-                            let&apos;s create
+                            let&apos;s create together
                         </h1>
                         <div className="ml-[4vw] w-[8vw] sm:ml-[3vw] sm:w-[6vw]">
                             <svg className="entry-title__arrow" viewBox="0 0 118 91" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -53,7 +53,7 @@ function Footer() {
                 <div className=" sm:flex items-start justify-between">
 
                     <div className="first space-y-1 ">
-                        <h3  className="mb-[4vw] pt-[8vw] sm:pt-0 sm:mb-[1.5vw] sm:text-[.9vw]">Socials</h3>
+                        <h3  className="mb-[4vw] pt-[8vw] sm:pt-0 sm:mb-[1.5vw] sm:text-[.9vw]">Me in the internet</h3>
                         {data.map((item, index) => {
                             return (
                                 <div key={index} 
@@ -66,14 +66,14 @@ function Footer() {
                         })}
                     </div>
                     <div className="middle">
-                        <h3 className="mt-[8vw] mb-[4vw] sm:mt-0 sm:mb-[1.5vw] sm:text-[.9vw]">Address</h3>
-                        <h2 className="text-[5.4vw] leading-[6vw] sm:text-[1.4vw] sm:leading-[1.4vw]">Skovorody 5</h2>
-                        <h2 className="text-[5.4vw] leading-[6vw] sm:text-[1.4vw] sm:leading-[1.4vw]">61057 Kharkiv</h2>
-                        <h2 className="text-[5.4vw] leading-[6vw] sm:text-[1.4vw] sm:leading-[1.4vw]">Ukraine</h2>
+                        <h3 className="mt-[8vw] mb-[4vw] sm:mt-0 sm:mb-[1.5vw] sm:text-[.9vw]">I am</h3>
+                        <h2 className="text-[5.4vw] leading-[6vw] sm:text-[1.4vw] sm:leading-[1.4vw]">Based in</h2>
+                        <h2 className="text-[5.4vw] leading-[6vw] sm:text-[1.4vw] sm:leading-[1.4vw]">Moscow</h2>
+                        <h2 className="text-[5.4vw] leading-[6vw] sm:text-[1.4vw] sm:leading-[1.4vw]">Russia</h2>
                     </div>
                     <div className=" last sm:w-1/4">
                         <h3 className="mt-[8vw] mb-[4vw] sm:mt-0 sm:mb-[1.5vw] sm:text-[.9vw]">Say Hi!</h3>
-                        <h2 className="text-[5.8vw] leading-[6vw] pb-[8vw] sm:pb-0 sm:text-[1.4vw] sm:leading-[1.4vw] underline">info@obys.agency</h2>
+                        <h2 className="text-[5.8vw] leading-[6vw] pb-[8vw] sm:pb-0 sm:text-[1.4vw] sm:leading-[1.4vw] underline">polina@petkevich.su</h2>
                     </div>
                 </div>
                 <UnderLine marginBottom='2vw' marginTop='8vw' />
@@ -81,7 +81,7 @@ function Footer() {
                     className="underline mt-[16vw] mb-[9vw] w-full h-[.25vw] 
                     sm:h-[.01vw] sm:mt-[4.5vw] sm:mb-[2vw] bg-white"
                 ></div> */}
-                <h5 className="sm:text-[.9vw] pt-[3vw] sm:pt-0  ">Obys Agency &copy; 2024</h5>
+                <h5 className="sm:text-[.9vw] pt-[3vw] sm:pt-0  ">Made by Andrew @aptxayc to my classmate Polina on the occasion of graduation &copy; 2024</h5>
             </div>
         </div>
     </div>
