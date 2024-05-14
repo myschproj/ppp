@@ -104,50 +104,7 @@ function About() {
                             If you wanna same cool site, which will win a lot of awards, DM me in Telegram or by mail polina@petkevich.su.
                             And I we will help you with the pleasure.
                         </h5>
-                    </div>
-                    {/* blue Image */}
-                    <div className="order-3 w-full
-                        px-[4vw] pt-[2vw] pb-[12vw]
-                        sm:absolute top-[50%] left-[35%] 
-                        sm:w-[34vw] sm:px-[3vw] sm:py-[2vw] font-[PlinaReg]
-                        bg-[#3f7df4]"
-                    >
-                        <div className="row flex items-start sm:items-center justify-between 
-                            border-b-[.9px]
-                             border-white py-[5vw]
-                            sm:py-[2vw]"
-                        >
-                            <h3 className=" sm:text-[1.4vw] whitespace-nowrap text-[3.6vw]">Awwwards x16</h3>
-                            <p className="w-1/2  tracking-normal 
-                                text-[3.4vw] leading-[4vw] 
-                                sm:w-2/4 sm:text-[.8vw] sm:leading-[.9vw]
-                                "
-                            >
-                                SOTM, SOTD and Honrable Mentions
-                            </p>
-                        </div>
-                        <div className="row flex items-start sm:items-center justify-between py-[5vw]
-                        border-b-[.9px] border-white sm:py-[2vw]">
-                            <h3 className="text-[3.6vw] sm:text-[1.4vw] ">Red Dot Award x1</h3>
-                            <p className="w-1/2 sm:w-2/4 sm:text-[.8vw] sm:leading-[.9vw] tracking-normal text-[3.4vw] 
-                            leading-[4vw] ">Best of the Best</p>
-                        </div>
-                        <div className="row flex items-start sm:items-center justify-between py-[5vw] 
-                        border-b-[.9px] border-white sm:py-[2vw]">
-                            <h3 className="sm:text-[1.4vw] text-[3.6vw]">FWA x11</h3>
-                            <p className="w-1/2 sm:w-2/4 sm:text-[.8vw] sm:leading-[.9vw] tracking-normal text-[3.4vw] leading-[4vw]">FWA of the Day</p>
-                        </div>
-                        <div className="row flex items-start sm:items-center justify-between py-[5vw]
-                         border-b-[.9px] border-white sm:py-[2vw]">
-                            <h3 className="sm:text-[1.4vw] text-[3.6vw]">CSSDA x23</h3>
-                            <p className="w-1/2 sm:w-2/4 sm:text-[.8vw] sm:leading-[.9vw] tracking-normal text-[3.4vw] leading-[4vw]">WOTM WOTD and UI, UX Inovation</p>
-                        </div>
-                        <div className="row flex items-start sm:items-center justify-between  border-b-[.9px] py-[5vw]
-                         border-white sm:py-[2vw]">
-                            <h3 className="sm:text-[1.4vw] text-[3.6vw]">Behance x25</h3>
-                            <p className="w-1/2 sm:w-2/4 sm:text-[.8vw] sm:leading-[.9vw] tracking-normal text-[3.4vw] leading-[4vw]">Interaction, Graphic Design</p>
-                        </div>
-                    </div>        
+                    </div>       
                 </div>
                 {/* Line animation */}
                 <UnderLine  marginBottom='1vw' marginTop='18vw'  />
