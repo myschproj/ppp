@@ -18,7 +18,7 @@ function Project() {
         parent: wrappers.current,
         intensity: 0.6,
         imagesRatio: 360/288,
-        image1: '/images/image3.png',
+        image1: 'https://event.ru/wp-content/uploads/2021/10/vk-1122x686.png',
         image2: '/images/olga.jpg',
         displacementImage: '/images/14.jpg'
       })
