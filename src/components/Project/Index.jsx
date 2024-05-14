@@ -37,7 +37,7 @@ function Project() {
         intensity: 0.5,
         imagesRatio: 360/320,
         image1: '/images/sberbank.png',
-        image2: '/images/eyes.png',
+        image2: '/images/vk-1122x686.png',
         displacementImage: '/images/14.jpg'
       })
       new hoverEffect({
@@ -62,7 +62,7 @@ function Project() {
         parent: wrapper6.current,
         intensity: 0.5,
         imagesRatio: 360/320,
-        image1: '/images/audilogo.png',
+        image1: '/images/vk-1122x686.png',
         image2: '/images/last2.png',
         displacementImage: '/images/14.jpg'
       })
