@@ -174,7 +174,7 @@ function Project() {
               <h2 className='text-[5vw] mb-[7vw] sm:mb-0 sm:text-[2vw] font-[PlinaReg] uppercase 
                 sm:tracking-tight sm:leading-[2vw]'
               >
-                Olga prudka
+                VK
               </h2>
             </div>
               <div id="imageContainer"
@@ -194,15 +194,15 @@ function Project() {
               sm:text-[.8vw] items-start justify-between 
               gap-8 border-b-[1px] border-white pb-[6vw] sm:pb-[1.6vw]'
             >
-              <h5 className='whitespace-'>Logo design, Website design, Development</h5>
-              <h5>2023</h5>  
+              <h5 className='whitespace-'>Website design, Development</h5>
+              <h5>Since 2024</h5>  
             </div> 
           </div>
           {/* Image*/}
           <div className="secondCol sm:w-2/5">
             <div className='mb-[1.6vw]'>
               <h2 className='text-[5vw] mt-[7vw] sm:mt-0 mb-[7vw] sm:mb-0 sm:text-[2vw] font-[PlinaReg] 
-              uppercase sm:tracking-tight sm:leading-[2vw]'>aim</h2>
+              uppercase sm:tracking-tight sm:leading-[2vw]'>Medical</h2>
             </div>
             <div  
               id="imageContainer"
@@ -237,7 +237,7 @@ function Project() {
                 left-0 bg-[#fff] text-[#000]`}
               >
                 <p className={`circleInpara ${styles.circleInpara} font-[PlinaReg] text-center text-[.9vw] scale-0 w-[70%]`}>
-                  We are thrilled to have you on board. We hope you enjoy the projects 🧡
+                  I hope you enjoy my projects 🧡
                 </p>
               </div>
             </div>
@@ -260,7 +260,7 @@ function Project() {
                   left-0 bg-[#fff] text-[#000]`}
                 >
                   <p className={`circleInpara2 ${styles.circleInpara2} text-center font-[PlinaReg] text-[.9vw] scale-0 w-[70%]`}>
-                  It will make you WOW! 😉
+                  It will make you satisfied!
                   </p>
                 </div>
               </div>
@@ -298,7 +298,7 @@ function Project() {
                 <h2 className='text-[5vw] mt-[7vw] sm:mt-0 mb-[7vw] sm:mb-0 sm:text-[2vw] 
                   font-[PlinaReg] capitalize sm:tracking-tight sm:leading-[2vw]'
                 >
-                  David Laxer
+                  Site of the Kiruxa
                 </h2>
               </div>
               <div 
@@ -319,7 +319,7 @@ function Project() {
                 border-b-[1px] border-white  pb-[6vw] sm:pb-[1.6vw]'
               >
                 <h5>Website design, Development</h5>
-                <h5>2023</h5>  
+                <h5>2024</h5>  
               </div>
           </div>
         </div>
@@ -331,7 +331,7 @@ function Project() {
             <div className='mb-[1.6vw]'>
               <h2 className='text-[5vw] mt-[7vw] sm:mt-0 mb-[7vw] sm:mb-0 sm:text-[2vw] 
                 font-[PlinaReg] uppercase sm:tracking-tight sm:leading-[2vw]'
-              >Eminente</h2>
+              >Lenya Rofls</h2>
             </div>
             <div 
               id="imageContainer"
@@ -368,7 +368,7 @@ function Project() {
                   left-0 bg-[#fff] text-[#000]`}
                 >
                   <p className={`circleInpara3 ${styles.circleInpara3} text-center font-[PlinaReg] text-[.9vw] scale-0 w-[70%]`}>
-                  We like its color palette 🎨
+                  I like its color palette 🎨
                   </p>
                 </div>
               </div>
@@ -377,7 +377,7 @@ function Project() {
           {/* Image*/}
           <div className="thirdThirdCol sm:mt-[8vw]">
             <div className='sm:mb-[1.6vw]'>
-                <h2 className='text-[5vw] mt-[7vw] sm:mt-0 mb-[7vw] sm:mb-0 sm:text-[2vw] font-[PlinaReg] uppercase sm:tracking-tight sm:leading-[2vw]'>Makhno</h2>
+                <h2 className='text-[5vw] mt-[7vw] sm:mt-0 mb-[7vw] sm:mb-0 sm:text-[2vw] font-[PlinaReg] uppercase sm:tracking-tight sm:leading-[2vw]'>aptxayc.ru</h2>
               </div>
               <div id="imageContainer"
               ref={wrapper6}
