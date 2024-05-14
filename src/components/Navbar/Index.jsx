@@ -76,10 +76,10 @@ function Navbar() {
           </div>
 
           <div className="first2 hidden sm:inline-block text-[.9vw] leading-none">
-            <h5>Obys-</h5>
-            <h5>Creative</h5>
-            <h5>Design</h5>
-            <h5>Agency</h5>
+            <h5>Polina-</h5>
+            <h5>Petkevich</h5>
+            <h5>Designer,</h5>
+            <h5>Developer.</h5>
           </div>
         </div>
 
