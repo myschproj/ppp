@@ -27,7 +27,7 @@ function Project() {
         parent: wrapper3.current,
         intensity: 0.4,
         imagesRatio: 360/320,
-        image1: '/images/Forbes-logo.jpg',
+        image1: '/images/vk-1122x686.png',
         image2: '/images/image2.jpg',
         displacementImage: '/images/14.jpg'
       })
