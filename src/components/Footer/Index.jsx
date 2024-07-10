@@ -80,7 +80,7 @@ function Footer() {
                     className="underline mt-[16vw] mb-[9vw] w-full h-[.25vw] 
                     sm:h-[.01vw] sm:mt-[4.5vw] sm:mb-[2vw] bg-white"
                 ></div> */}
-                <h5 className="sm:text-[.9vw] pt-[3vw] sm:pt-0  ">Made by Andrew @aptxayc to my classmate Polina on the occasion of graduation &copy; 2024</h5>
+                <h5 className="sm:text-[.9vw] pt-[3vw] sm:pt-0  ">Made by Andrew (adgb.ru) to my classmate Polina on the occasion of graduation &copy; 2024</h5>
             </div>
         </div>
     </div>
